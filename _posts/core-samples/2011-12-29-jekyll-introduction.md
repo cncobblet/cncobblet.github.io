@@ -1,7 +1,7 @@
 ---
 layout: post
 category: lessons
-title: Introduction
+title: gitblog
 tagline: gitblog
 tags:
   - intro
