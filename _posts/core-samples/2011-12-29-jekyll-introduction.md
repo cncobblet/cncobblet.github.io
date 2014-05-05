@@ -2,7 +2,7 @@
 layout: post
 category: lessons
 title: Introduction
-tagline: Supporting tagline
+tagline: gitblog
 tags:
   - intro
   - beginner
@@ -10,4 +10,4 @@ tags:
   - tutorial
 published: true
 ---
-反反复复
+这个gitblog 挺好啊。
